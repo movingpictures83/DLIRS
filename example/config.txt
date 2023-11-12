@@ -1,0 +1,2 @@
+Prefix plugins/DLIRS/example/
+Plugin DLIRS inputfile parameters.txt outputfile output.txt

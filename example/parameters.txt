@@ -1,0 +1,3 @@
+n	32
+infile	epsilon.txt
+kind	DLIRS
